@@ -1,6 +1,6 @@
 # Draft Board Analyzer Backend
 
-This is the backend service that powers the "Parse with AI" feature in the Draft Board Analyzer.
+This is the backend service that powers the "Parse with AI" feature in the Draft Board Analyzer..
 
 ## Deployment to Vercel (Free)
 
