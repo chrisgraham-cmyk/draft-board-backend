@@ -1,0 +1,12 @@
+{
+  "buildCommand": "npm install",
+  "env": {
+    "ANTHROPIC_API_KEY": "@anthropic_api_key"
+  },
+  "functions": {
+    "api/parse.js": {
+      "memory": 3008,
+      "maxDuration": 30
+    }
+  }
+}
