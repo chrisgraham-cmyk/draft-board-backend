@@ -1,3 +1,4 @@
+// Backend for Draft Board Analyzer
 const Anthropic = require("@anthropic-ai/sdk");
 
 const client = new Anthropic({
