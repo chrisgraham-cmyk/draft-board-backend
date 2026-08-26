@@ -1,0 +1,13 @@
+{
+  "name": "draft-board-api",
+  "version": "1.0.0",
+  "description": "Backend for Draft Board Analyzer Parse with AI feature",
+  "main": "api/parse.js",
+  "scripts": {
+    "start": "node api/parse.js",
+    "dev": "node api/parse.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0"
+  }
+}
